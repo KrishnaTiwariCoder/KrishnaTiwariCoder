@@ -53,6 +53,8 @@
   <code><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
   </code>
   <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></code>
+  <code><a href="https://turbo.build/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddTT8hjC1XIt19BOselgj2WEWXfP2SQeQSHp3oE3blbFe7NlT_iX2BnKWySajntw05Xo&usqp=CAU" alt="postman" width="40" height="40"/></a></code>
+  
   
 </p>
 
@@ -69,7 +71,7 @@
 
 #### Want to connect?
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krsna-tiwar/) or send me an [email](mailto:krishnatiwaridtea@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krsna-tiwari/) or send me an [email](mailto:krishnatiwaridtea@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
 ---
 
