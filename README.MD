@@ -5,9 +5,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Krishna (KR$NA)</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | DevOps Engineer | Web Development Intern @BizByte</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/krsna-tiwar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krsna-tiwar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krsna-tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krsna-tiwar" height="30" width="40" /></a>
   <a href="mailto:krishnatiwaridtea@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   <a href="https://github.com/KrishnaTiwariCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="KrishnaTiwariCoder" height="30" width="40" /></a>
+  <a href="https://drive.google.com/file/d/1brfOk1YzG7pCQZlY6j1Vv4O0vmDJzBOP/view?usp=drive_link" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=23882&format=png&color=000000" alt="KrishnaTiwariCoder" height="30" width="40" /></a>
 </p>
 
 <p align="center">
@@ -75,4 +76,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krsna-tiw
 
 ---
 
-Last Updated: December 2024
+Last Updated: January 2025
