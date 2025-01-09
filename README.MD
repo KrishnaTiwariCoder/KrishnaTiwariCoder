@@ -5,9 +5,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Krishna (KR$NA)</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | DevOps Engineer | Web Development Intern @BizByte</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/krsna-tiwar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krsna-tiwar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krsna-tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krsna-tiwari" height="30" width="40" /></a>
   <a href="mailto:krishnatiwaridtea@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   <a href="https://github.com/KrishnaTiwariCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="KrishnaTiwariCoder" height="30" width="40" /></a>
+  <a href="https://drive.google.com/file/d/1brfOk1YzG7pCQZlY6j1Vv4O0vmDJzBOP/view?usp=drivesdk" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=86970&format=png&color=000000" alt="resume" height="30" width="40" /></a>
 </p>
 
 <p align="center">
@@ -39,22 +40,25 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-  <code><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>  
   <code><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
   </code>
   <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></code>
-  <code><a href="https://turbo.build/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddTT8hjC1XIt19BOselgj2WEWXfP2SQeQSHp3oE3blbFe7NlT_iX2BnKWySajntw05Xo&usqp=CAU" alt="postman" width="40" height="40"/></a></code>
-  
   
 </p>
 
