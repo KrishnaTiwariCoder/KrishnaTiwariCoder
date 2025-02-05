@@ -73,6 +73,12 @@
 </div>
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaTiwariCoder/KrishnaTiwariCoder/output/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaTiwariCoder/KrishnaTiwariCoder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishnaTiwariCoder/KrishnaTiwariCoder/output/github-snake.svg" />
+</picture>
+
 #### Want to connect?
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krsna-tiwari/) or send me an [email](mailto:krishnatiwaridtea@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
