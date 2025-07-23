@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Krishna (KR$NA)</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | DevOps Engineer | Web Development Intern @BizByte</h3>
+<h3 align="center"> Full Stack Developer | DevOps Engineer | Web Developer</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/krsna-tiwari/"><img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krsna-tiwar" /></a>
   <a target="_blank" href="mailto:krishnatiwaridtea@gmail.com"><img height="30" width="40" align="center" src="https://simpleicons.org/icons/gmail.svg"/></a>
@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     This is ME, Krishna Tiwari, a <b>first year</b> undergraduate from <a href="https://mait.ac.in/" target="_blank"> <b>Maharaja Agrasen Institute of Technology</b>, New Delhi</a>. <br>
-    Currently working as a <b>Full Stack Web Development Intern</b> at <b>BizByte</b> while pursuing my passion for <b>AI/ML</b> and <b>DevOps</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. A <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Currently working as a <b>Full Stack Web Developer while pursuing my passion for <b>AI/ML</b> and <b>DevOps</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. A <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -28,7 +28,6 @@
 <img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">&nbsp;**_Talking about Personal Stuffs..._**
 
 ✔ Pronouns: **_He/Him_** 😉<br>
-✔ I'm currently working as a **Full Stack Web Development Intern** at **BizByte**<br>
 ✔ I'm pursuing **B.Tech CSE (AI & ML)** at MAIT<br>
 ✔ I'm an intermediate **DevOps Engineer** with experience in CI/CD and containerization<br>
 ✔ I'm currently learning **Deep Learning**, **Computer Vision** & **Advanced DevOps Practices**<br>
