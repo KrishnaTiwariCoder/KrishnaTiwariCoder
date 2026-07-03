@@ -37,13 +37,10 @@
     <br><br>
     Currently working as a <b>Full Stack Web Developer</b> while pursuing my passion for
     <b>AI/ML</b> and <b>DevOps</b>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="22px"/>.
     A <b>Competitive Programming Enthusiast</b>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="26px"/>,
     <br>
     who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="16px"/>
-    and <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="18px"/>.
+    <b>grow</b> 
   </em>
   <br><br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"/>
@@ -106,12 +103,20 @@
 </p>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
-  <span width="100%" style="align:left;" >
-    <img style="height:100%"src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaTiwariCoder&show_icons=true&locale=en&layout=compact" alt="KrishnaTiwariCoder" />
-  </span>
-  <span width="100%">
-    <img style="height:100%;" src="https://github-readme-stats.vercel.app/api?username=KrishnaTiwariCoder&show_icons=true&locale=en" alt="KrishnaTiwariCoder">
-  <span>
+
+  
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KrishnaTiwariCoder&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaTiwariCoder&theme=tokyo-night"/>
+
+
+<img src="https://leetcard.jacoblin.cool/krishnatiwaridtea?theme=dark&font=Nunito" />
+
+<img src="https://komarev.com/ghpvc/?username=KrishnaTiwariCoder&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 
 </div>
 
