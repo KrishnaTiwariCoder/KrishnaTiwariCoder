@@ -34,11 +34,10 @@
   <em>
     This is ME, Krishna Tiwari, a <b>second year</b> undergraduate from
     <a href="https://mait.ac.in/" target="_blank"><b>Maharaja Agrasen Institute of Technology</b>, New Delhi</a>.
-    <br><br>
+    <br/>
     Currently working as a <b>Full Stack Web Developer</b> while pursuing my passion for
     <b>AI/ML</b> and <b>DevOps</b>
     A <b>Competitive Programming Enthusiast</b>
-    <br>
     who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> 
   </em>
@@ -82,14 +81,28 @@
   <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"/>
   <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"/>
   <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
   <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/>
   <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite"/>
-  <img height="42" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"/>
-  <img height="42" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webrtc.svg" title="WebRTC"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" title="tRPC"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="Ansible"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana"/>
+  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hono.svg" title="Hono"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka"/>
   <img height="42" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS"/>
   <img height="42" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddTT8hjC1XIt19BOselgj2WEWXfP2SQeQSHp3oE3blbFe7NlT_iX2BnKWySajntw05Xo&usqp=CAU" title="Tool"/>
+  <br/>
   <img height="28" src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge" title="MCP" style="vertical-align:middle;"/>
   <img height="28" src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0EA5E9?style=for-the-badge" title="RAG" style="vertical-align:middle;"/>
 </p>
@@ -108,12 +121,11 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KrishnaTiwariCoder&theme=tokyonight"/>
-
+<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaTiwariCoder&theme=tokyo-night"/>
-
-
+<br/>
 <img src="https://leetcard.jacoblin.cool/krishnatiwaridtea?theme=dark&font=Nunito" />
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=KrishnaTiwariCoder&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
@@ -136,4 +148,4 @@ Feel free to reach out to me on [X](https://x.com/krsnaniyeer) or send me an [em
 
 ---
 
-Last Updated: June 2026
+Last Updated: July 2026
