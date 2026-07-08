@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="100%" style="max-height:200px; object-fit:cover; border-radius:8px;"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="100%" style="max-height:150px; object-fit:cover; border-radius:8px;"/>
 </p>
 
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"/>, I'm Krishna (KR$NA)
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"/>, I'm Krishna (KRSNA)
 </h1>
 
 <h3 align="center">Full Stack Developer | DevOps Engineer | Web Developer</h3>
