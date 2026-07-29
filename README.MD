@@ -18,7 +18,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/FFFFFF" />
   </a>
   &nbsp;
-  <a href="https://github.com/KrishnaTiwariCoder">
+  <a href="https://github.com/KrishnaTiwariCoder?tab=repositories">
     <img height="32" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
   </a>
   &nbsp;
@@ -50,7 +50,7 @@
 
 <div>
 <img align="right" width="260px" alt="Coding" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
-<img width="26px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">&nbsp;**_Talking about Personal Stuff..._**
+<img width="26px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">&nbsp;Talking about Personal Stuff...
  
 ✔ Pronouns: **_He/Him_** 😉<br>
 ✔ I'm pursuing **B.Tech CSE (AI & ML)** at MAIT<br>
